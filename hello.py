@@ -1,6 +1,6 @@
 """
 Simple test program in Python
-Alex Barrón
+Alex Barrón, Angel Afonso
 """
 
 def main():
